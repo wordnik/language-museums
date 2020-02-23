@@ -9,13 +9,13 @@ This project is undertaken with permission from Per Magnus F. Sandsmark, General
 
 ## Structure
 
-Each museum's entry is a json file. Keys should include: name, last_updated, location, url, email, address, phone, and a description field, with the format "description_LANG" where LANG is the [ISO 639-1 two-character language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
+Each museum's entry is a json file. Keys should include: name, last_updated, location, url, email, address, phone, and a description field, with the format "description_LANG" where LANG is the [ISO 639-1 two-character language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language of the description field.
 
 ## How to contribute
 
 Feel free to start transcribing the museums from the linked PDF above! Please send a pull request for the original PDF version before making updates to any of the data found within. 
 
-Please note that updates must be approved by the Center for Norwegian Language and Literature, so it may take some time for pull requests to be approved
+Please note that updates must be approved by the Center for Norwegian Language and Literature, so it may take some time for pull requests to be approved.
 
 Please note that all contributors are bound by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
