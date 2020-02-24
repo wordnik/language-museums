@@ -1,6 +1,7 @@
 # Museums List
 
-##Museums of language and languages of the world 
+## Museums of language and languages of the world 
+
 [Grimmwelt (2015), Germany](/museums-json/grimmwelt.json)
 Linguistic Educational Museum (1992), Ukraine
 Mundolingua (2013), France
@@ -58,7 +59,8 @@ Sydney Museum of Words (2013), Australia
 The Word (2016), England
 Verbum – Casa das Palabras (2003), Spain 
 
-##Museums in memory of persons 
+## Museums in memory of persons 
+
 Daniel Sanders Haus (2011), Germany
 Dr. Johnson’s House (1911), England
 House Museum of Neofit Rilski (1981), Bulgaria
@@ -71,7 +73,8 @@ Native House of Ľudovít Štúr and Alexander Dubček (1965), Slovakia
 Noah Webster House (1966), USA
 Primož Trubar House (1986), Slovenia 
 
-##Plans and projects for new museums 
+## Plans and projects for new museums  
+
 English Language Museum, England 
 Eurotales, Italy 
 Lingman, Language Museum, China  
