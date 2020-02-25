@@ -5,17 +5,17 @@
 The goal of this project is to create an editable version of [_Language museums
 of the world_](https://www.nynorsk.no/wp-content/uploads/2020/02/814-20180314-Language-museums-OG.pdf), edited by Ottar Grepstad of the Centre for Norwegian Language and Literature. 
 
-This project is undertaken with permission from Per Magnus F. Sandsmark, General Director, Centre for Norwegian Language and Literature.
+This project is edited by Ottar Grepstad and published by the Centre for Norwegian Language and Literature, and undertaken with permission from the author. 
 
 ## Structure
 
-Each museum's entry is a json file. Keys should include: name, last_updated, location, url, email, address, phone, and a description field, with the format "description_LANG" where LANG is the [ISO 639-1 two-character language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language of the description field.
+Each museum's entry is a json file. Keys should include: name, last_updated, location, url, email, address, and phone. We are not including the description field from the PDF in our json files.
 
 ## How to contribute
 
 Feel free to start transcribing the museums from the linked PDF above! Please send a pull request for the original PDF version before making updates to any of the data found within. 
 
-Please note that updates must be approved by the Center for Norwegian Language and Literature, so it may take some time for pull requests to be approved.
+Please note that updates must be approved by the author, so it may take some time for pull requests to be approved. If your pull request hasn't been approved within 30 days, please raise an issue.
 
 Please note that all contributors are bound by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
