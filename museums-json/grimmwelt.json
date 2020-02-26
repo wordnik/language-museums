@@ -1,8 +1,9 @@
-{"name": "Grimmwelt",
-"last_updated":  "2015",
-"location": "Kassel, Germany",
-"url": "www.grimms.de/museum",
-"email": "grimmnet@t-online.de",
-"address":"Weinbergstraße 21, 34117 Kassel",
-"phone":"+49 561 598 61 910"
+{
+  "name": "Grimmwelt",
+  "last_updated": "2015",
+  "location": "Kassel, Germany",
+  "url": "www.grimms.de/museum",
+  "email": "grimmnet@t-online.de",
+  "phone": "+49 561 598 61 910",
+  "address": "Weinbergstra\u00dfe 21, 34117 Kassel"
 }
