@@ -17,7 +17,7 @@ National Museum of Language (2008), USA
 
 Taalmuseum (2016), Netherlands
 
-Museums of one language or group of languages 
+## Museums of one language or group of languages 
 
 Afrikaans Language Museum and Monument (1975), South Africa
 
@@ -85,7 +85,7 @@ Yazi Tarihi Müzesi (2003), Kazakhstan
 
 Yugambeh Museum (1995), Australia
 
-Museums of writing and written culture
+## Museums of writing and written culture
 
 China Book Culture Exhibition Hall (2008), 
 
